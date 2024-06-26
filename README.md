@@ -24,7 +24,7 @@
 
 7. **Install Dependencies**:
    ```
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 
 8. **Start the app**:
