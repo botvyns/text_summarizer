@@ -27,7 +27,7 @@
    python -m pip install -r requirements.txt
    ```
 
-8. **Start the app**:
+8. **Start the app what might take some time**:
    ```
    python main.py
    ```
@@ -35,3 +35,4 @@
     ```
     python test_endpoint.py
     ```
+    This might take some time too. After you should receive JSON with summary of the text provided in `test_endpoint.py`
